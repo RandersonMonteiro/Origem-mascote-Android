@@ -159,10 +159,13 @@ aside > h3{
 }
 
 aside > ul{
-    list-style-type: '\1F5F8\00A0\00A0';
+    list-style-type: none;
     list-style-position: inside;
     columns: 2;
     margin: 5px;
+    line-height: 1.3em;
+    text-align: center;
+
 }
 
 aside > p{
